@@ -1,0 +1,28 @@
+# History and workspace images
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+
+# RStudio project files and user state
+.Rproj.user/
+*.Rproj.user
+
+# Mac / Windows system artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output clutter and caches
+*.Rcheck/
+.Rcache/
+__pycache__/
+
+# Scratch files and temporary downloads
+scratch/
+*.tmp
+*.temp
+
+Rplots.pdf
+Rplot*.pdf
+
